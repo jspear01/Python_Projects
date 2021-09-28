@@ -4,3 +4,4 @@
 #### -[01312021_Card_Game.ipynb](https://github.com/jspear01/Python_Projects/blob/main/01312021_Card_Game.ipynb)
 ## 2. Web Scraping
 #### - [Web_Scraping.ipynb](https://github.com/jspear01/Python_Projects/blob/main/Web_Scraping.ipynb)
+##### Utilized Beautiful Soup to extract HTML components from a website 
